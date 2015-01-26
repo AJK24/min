@@ -1,6 +1,7 @@
 var min = function (x,y){
        if(x<y){
          return x;
+       }
        else//if x and y are the same the same number will also be printed
 	 return y;
 }
